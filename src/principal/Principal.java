@@ -1,9 +1,5 @@
 package principal;
 
-/**
- *
- * @author Lorenzo
- */
 public class Principal {
 
     public static boolean ePrimo(long inicio, long fim) {
