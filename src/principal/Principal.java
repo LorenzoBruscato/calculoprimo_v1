@@ -19,7 +19,7 @@ public class Principal {
 
     public static void main(String[] args) {
         long inicio = 5;
-        long fim = 50;
+        long fim = 25;
 
         for (long i = inicio; i <= fim; i++) {
             if (ePrimo(i, 2)) {
